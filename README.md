@@ -1,28 +1,32 @@
 ## Hi, I'm Alya 👋
 
-I'm an AI & Data Science student at OTH Regensburg (Germany).
-I focus on building practical, well-structured projects in machine learning,
-data analysis, and automation.
+AI & Data Science student at OTH Regensburg, pivoting into AI engineering 
+after 15 years in marketing, product, and analytics.
 
-### What I work with
-- **Programming:** Python, C
-- **Data & ML:** pandas, NumPy, scikit-learn
-- **Automation:** scripting, data pipelines, small tooling
-- **Tools:** Git, GitHub, Jupyter, Linux/macOS
+I build tools that solve real problems I have — not portfolio filler.
 
-### What you can find here
-- Pet-projects in machine learning and data analytics
-- University ML projects (cleaned up and documented)
-- Small automation scripts that solve real problems
-- Well-documented repositories with clear problem statements
+### Currently shipping
 
-### Current focus
-- Designing ML projects from problem to evaluation
-- Writing clean, readable, and reproducible code
-- Applying automation to data and product-related tasks
+🛡 **[PasteSafe](https://github.com/pastsafe-ext/pastesafe)** — Chrome extension 
+that detects sensitive data before it leaks into ChatGPT, Claude, or Gemini. 
+Live on the Chrome Web Store.
+
+### What I'm into
+
+- **Applied ML / LLM applications** — RAG systems, practical AI tools, 
+  not just tutorials
+- **Automation that replaces tedious work** — Telegram bots, data pipelines, 
+  personal knowledge systems
+- **Product-driven engineering** — shaped by years of PM and analytics work
+
+### Stack
+
+Python · Claude/OpenAI APIs · Telegram Bot API · SQL · Git ·
+Linux/macOS · C/C++ (for the university side)
 
 ### Background
-- B.Sc. AI & Data Science student @ OTH Regensburg
-- Experience with both low-level (C) and high-level (Python) programming
-- Strong interest in practical applications of AI and analytics
+
+Previously: product management, analytics, digital marketing (15 years). 
+Now: B.Sc. AI & Data Science @ OTH Regensburg, building toward LLM 
+application roles.
 
